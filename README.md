@@ -1,2 +1,2 @@
-# GitHub-Pages-Test
-Repository for GitHub Pages training
+# github.io
+Repository for GitHub Pages site
